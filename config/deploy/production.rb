@@ -1,2 +1,2 @@
-server'52.194.83.199', user:'baroka', roles: %w{app db web}
-set :ssh_options, keys:'path to local private key'
+server'175.41.209.158', user:'baroka', roles: %w{app db web}
+set :ssh_options, keys:'/home/app/.ssh/id_rsa'
