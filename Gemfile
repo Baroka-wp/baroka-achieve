@@ -48,10 +48,10 @@ group :development, :test do
   gem 'better_errors'
   gem 'binding_of_caller'
   gem 'capistrano', '3.6.0' # set of tools for capistrano
-   gem 'capistrano-bundler'
-   gem 'capistrano-rails'
-   gem 'capistrano-rbenv'
-   gem 'capistrano3-unicorn'
+  gem 'capistrano-bundler'
+  gem 'capistrano-rails'
+  gem 'capistrano-rbenv'
+  gem 'capistrano3-unicorn'
 end
 
 group :development do
